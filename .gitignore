@@ -1,0 +1,6 @@
+et-env/
+et-env-312/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
